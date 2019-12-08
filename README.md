@@ -1,37 +1,23 @@
 # Lita Axure 原型组件库
 
 #### 介绍
-具备一些常用的Axure组件，有黑白两种配色，使用更为便捷。
 
-#### 软件架构
-软件架构说明
+马上到年底了，把今年在新公司用过的组件都做了整理，方便后续项目的运用。
 
+这个组件库只有一些基础的组件，具备黑白两种样式，可根据项目整体风格选择，使用Axure9制作。
 
-#### 安装教程
+预览地址：https://17yen8.axshare.com/
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+组件预览：
 
-#### 使用说明
+![预览图1](https://qiniu.baozipm.com/wp-content/uploads/2019/12/light.png "预览图1")
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+![预览图2](https://qiniu.baozipm.com/wp-content/uploads/2019/12/dark.png "预览图2")
 
-#### 参与贡献
+#### 联系方式
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+如果想与我取得联系，请邮件我：bosenger@qq.com
 
+如果同志们确实很喜欢这个组件库，可以捐赠￥6.6支持工作，谢谢大家。
 
-#### 码云特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  码云官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
-5.  码云官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+![捐赠二维码](http://baozipmimg.oss-cn-beijing.aliyuncs.com/img/IMG_1274.JPG "捐赠二维码")
